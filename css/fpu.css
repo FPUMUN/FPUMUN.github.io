@@ -323,6 +323,13 @@ box-sizing: border-box;
     margin-bottom: 20px;
     font-size: 55px;
 }
+#schedule h2{
+    text-align: center;
+    color: #d98e6f;
+    font-size: 30px;
+    padding-bottom: 10px;
+}
+
 #schedule{
     padding-top: 7%;
 }
